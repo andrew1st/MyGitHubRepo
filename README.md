@@ -15,5 +15,10 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
   - Kubernetes 
 - AI & Machine Learning
   - Prompt Engineering
-- Computer Networking & OSI Model
-- Computer Engineering [Computer Architecture, Embeeded Systems, Hardware & Digital Circuit Design, ...]
+- Computer Engineering
+  - Networking & OSI Model
+  - Computer Architecture
+  - Embeeded Systems
+  - Hardware & Digital
+  - Circuit Design
+  - ...

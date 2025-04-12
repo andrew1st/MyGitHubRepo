@@ -3,9 +3,16 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
 
 ## Main Content(s)
 - Programming & Software Engineering
-- [Digital] Computer Hardware & Computer Engineering
+  - Python
+  - Node.js
+  - Data Structures & Algorithms
+- Cloud Technologies & DevOps/Site Reliability Engineering(SRE)
+  - Python for DevOps & DevOps interview prep
+  - Docker
+  - Terraform
+  - Kubernetes 
+- AI & Machine Learning
+  - Prompt Engineering 
+- Computer Engineering [Computer Architecture, Embeeded Systems, Hardware & Digital Circuit Design, ...]
 - Electronics & Electrical Engineering
-- Mathmatics, Statistics, & Choas/Game Theory
-- Science...
-- Buisness, Finance, & Economics
-- ...
+

@@ -6,13 +6,14 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
   - Python
   - Node.js
   - Data Structures & Algorithms
-- Cloud Technologies & DevOps/Site Reliability Engineering(SRE)
-  - Python for DevOps & DevOps interview prep
+- Cloud Technologies & DevOps/Site Reliability Engineering (SRE)
+  - [DevOps] Python w/ AWS & DevOps interview prep
+  - Azure
+  - AWS
   - Docker
   - Terraform
   - Kubernetes 
 - AI & Machine Learning
-  - Prompt Engineering 
+  - Prompt Engineering
+- Computer Networking & OSI Model
 - Computer Engineering [Computer Architecture, Embeeded Systems, Hardware & Digital Circuit Design, ...]
-- Electronics & Electrical Engineering
-

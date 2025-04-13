@@ -7,16 +7,21 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
   - Node.js
   - Data Structures & Algorithms
   - Object Oriented Programming (OOP) & Software Design
-  - Operating Systems
   - Databases/SQL (RDBMS & NoSQL)
   - API Architecture/Design (REST & GraphQL)
-- Cloud Technologies & DevOps/Site Reliability Engineering (SRE)
-  - [DevOps] Python w/ AWS & DevOps interview prep
+  - Testing & Debugging
+  - Operating Systems
+- Cloud Technologies & Platforms
+  - Cloud Computing & Infrastructure-as-Code (IaC)
   - Azure
   - AWS
   - Docker
   - Terraform
-  - Kubernetes 
+  - Kubernetes
+- DevOps/Site Reliability Engineering (SRE)
+  - CI/CD
+  - DevOps w/ Python
+  - Automated Deployments w/ Testing
 - AI & Machine Learning
   - Prompt Engineering
 - Computer Engineering

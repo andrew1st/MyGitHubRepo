@@ -1,7 +1,7 @@
 # MyGitHubRepo - Overview/Content
 My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/topics. 
 
-## Main Content(s)
+## Main Content & Intrests
 - Programming & Software Engineering
   - Python
   - Node.js

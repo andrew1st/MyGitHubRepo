@@ -1,4 +1,4 @@
-# MyGitHubRepo
+# MyGitHubRepo - Overview/Content
 My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/topics. 
 
 ## Main Content(s)
@@ -21,4 +21,5 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
   - Embeeded Systems
   - Hardware & Digital
   - Circuit Design
-  - ...
+- Cryptography & Cyber-security
+- ...

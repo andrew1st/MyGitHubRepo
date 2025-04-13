@@ -6,8 +6,10 @@ My GitHub Repo - Main overview of personal GitHub &amp; Tech interests/projects/
   - Python
   - Node.js
   - Data Structures & Algorithms
+  - Object Oriented Programming (OOP) & Software Design
   - Operating Systems
   - Databases/SQL (RDBMS & NoSQL)
+  - API Architecture/Design (REST & GraphQL)
 - Cloud Technologies & DevOps/Site Reliability Engineering (SRE)
   - [DevOps] Python w/ AWS & DevOps interview prep
   - Azure
